@@ -1,5 +1,3 @@
-//scripted  pipeline
-
 pipeline {
     agent any
     stages {
